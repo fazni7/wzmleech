@@ -1,4 +1,4 @@
-(https://app.koyeb.com/deploy?...)
+
 
 <p align="center">
     <a href="https://github.com/weebzone/WZML">
