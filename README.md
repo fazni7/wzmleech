@@ -1,4 +1,4 @@
-(https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+(https://app.koyeb.com/deploy?...)
 
 <p align="center">
     <a href="https://github.com/weebzone/WZML">
